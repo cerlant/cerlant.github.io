@@ -2,10 +2,10 @@
 
 ---
 
-### Data Analyst
+### Data Analysis
 
 [Most Used Words in the Harry Potter Movies](/notebooks/muw_hp_movies.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/wc_muw_hp.png?raw=true"/>
 
 
 ---

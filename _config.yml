@@ -1,10 +1,22 @@
 title: Carmelo R. Milano N. # your name (or website title) here
 logo: "/images/bio-photo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Analyst / Systems Engineering Student
+  <p align='center'> <a href="/pdf/CV-CarmeloMilano.pdf">Resume</a> <a href="https://www.linkedin.com/in/carmelo-milano/">LinkedIn</a> </p>
+
+  📊Data Analyst / Systems Engineering Student
   
+  Systems Engineering student pursuing a career in data science, as a data analyst. 
+  Seeking for new challenges that allow me to continue learning and apply the skills I have acquired. 
+
+  As a data analyst, I have experience using analysis tools and Machine Learning such as 
+  Python, Pandas, Scikit-Learn, Jupyter Notebooks, and Power BI, to obtain, predict and visualize insights from data.
+
+  As a systems engineering student, I also have knowledge of databases, 
+  object-oriented programming and the use of agile methodologies for
+  software development, as well as how bussines works from a systematic, 
+  administrative, financial and managerial point of view.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">LinkedIn</a> 
+ 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
