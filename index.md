@@ -4,6 +4,15 @@
 
 ### Data Analysis
 
+#### Exploratory Data Analysis: Maven Mexico Toys
+
+[![Open Notebook](https://img.shields.io/badge/Deepnote-Open_Notebook-blue?logo=Deepnote)](https://deepnote.com/@milano_projects/EDA-Maven-Toys-Sales-ec66ac7b-f1ca-4ee5-a012-b110b877b7fe)
+
+In this project I made an EDA on the Maven Mexico Toys dataset, using deepnote I was able to use SQL to query the csv data as I would from a SQL database. I was able to find relevant information such as in which location and from which products the company was making the most profit.
+
+<img src="images/MavenMexicoToys.png?raw=true"/>
+
+
 #### Most Used Words in the Harry Potter Movies
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](/notebooks/muw_hp_movies.html)
